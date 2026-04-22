@@ -17,8 +17,6 @@ A Python command-line application for managing project contributors and tracking
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
 - [How to Use](#how-to-use)
-- [Output Files](#output-files)
-- [GitHub Actions](#github-actions)
 - [Contributing](#contributing)
 - [License](#license)
 
