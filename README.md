@@ -56,7 +56,7 @@ OSS-week-6/
 ## Requirements
 
 - Python 3.x
-- No external libraries — uses only built-ins (`os`, `csv`)
+- No external libraries
 
 ---
 
